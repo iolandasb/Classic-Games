@@ -7,8 +7,6 @@ Creation of Pong and Freeway games using p5.js Editor.
 
 •	Height: altura.
 
-•	UP_ARROW
-
 •	keyIsDown: significa que uma tecla está pressionada.
 
 •	UP_ARROW: código para a seta para cima do teclado.
